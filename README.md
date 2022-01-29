@@ -13,7 +13,7 @@ I hope to learn how to make data visualizations that look cool and help people p
 
 #### assignment 1
 
-###### visualizing government debt [assignment](/dataviz1.html)
+###### visualizing government debt [assignment](pascale-portfolio/dataviz1.html)
 
 #### assignment 2
 
