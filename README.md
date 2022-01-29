@@ -13,6 +13,8 @@ I hope to learn how to make data visualizations that look cool and help people p
 
 #### assignment 1
 
+###### visualizing government debt [assignment](/dataviz1.md)
+
 #### assignment 2
 
 #### Final project 
@@ -27,5 +29,5 @@ I hope to learn how to make data visualizations that look cool and help people p
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/8531416"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
-###### visualizing government debt [assignment](/dataviz1.md)
+
 
