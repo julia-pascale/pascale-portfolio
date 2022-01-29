@@ -13,7 +13,7 @@ I hope to learn how to make data visualizations that look cool and help people p
 
 #### assignment 1
 
-###### visualizing government debt [assignment](/dataviz1.md)
+###### visualizing government debt [assignment](/dataviz1.html)
 
 #### assignment 2
 
