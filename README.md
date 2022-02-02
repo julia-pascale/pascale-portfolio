@@ -11,6 +11,9 @@ I hope to learn how to make data visualizations that look cool and help people p
 
 # portfolio
 
+#### class exercises
+[tableau](https://julia-pascale.github.io/pascale-portfolio/tableau-practice.html)
+
 #### assignment 1
 
 ###### visualizing government debt [assignment](https://julia-pascale.github.io/pascale-portfolio/dataviz1.html)
