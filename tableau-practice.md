@@ -1,6 +1,6 @@
 ### tableau 
 
-###### I created this visualization during a class tutorial on 2/2/22 :exploding_head:
+###### I created this visualization during a class tutorial on 2/2/22
 
 <div class='tableauPlaceholder' id='viz1643829580714' style='position: relative'><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='ClassTutorial_16438295179170&#47;CopyofOriginalDataViz' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div> 
 <script type='text/javascript'>                    
