@@ -5,4 +5,4 @@ Did you know the plural of emoji is emoji?
 
 Here is the original visualization:
 
-![T E S T](https://user-images.githubusercontent.com/98070047/152881211-bdccdc15-59fa-4a5b-9884-1b0e8bacc34c.jpg)
+![](/pics/Original_emoji_plot.jpg)
