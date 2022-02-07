@@ -8,10 +8,12 @@ Here is the original visualization:
 
 Here are wireframes:
 
+<img src="/Negative.png" width="800" height="600">
+
 <img src="/First_try_similar.png" width="800" height="600">
 
 <img src="/first_try_colors.png" width="800" height="600">
 
 <img src="/second_try_similar.png" width="800" height="600">
 
-<img src="/quad_grid_sketch.png" width="800" height="600">
+<img src="/quad_grid_sketch.jpg" width="800" height="600">
