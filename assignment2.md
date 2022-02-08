@@ -39,7 +39,7 @@ The first thing I wanted to try was tagging the emotions by their positivity. Th
 The second direction I went was to convert the graph into quadrants. With the way the scoring was set up in the study, one could say 5 on valence and 5 on arousal is "true neutral," so even though the axes don't go from -5 to 5, the shape still works: <br>  
 ![quad grid sketch by hand](/quad_grid_sketch.jpg) 
 ##### feedback
-"I think people generally understand the idea of the quadrants.  And it works in this example since you have a good/bad binary on one axis. Better to have a binary on the other axis too- rather than just strength of emotion which is a continuum. I think you could arrange the positive/negative emotion on the x-axis and the strength on the y starting at the origin 0 as neutral and still come up with the quadrants.  But sometimes they will do a regressive line like in the 2nd example. The further up and to the right the stronger and more positive." <br>
+"I think people generally understand the idea of the quadrants.  And it works in this example since you have a good/bad binary on one axis. Better to have a binary on the other axis too- rather than just strength of emotion which is a continuum. I think you could arrange the positive/negative emotion on the x-axis and the strength on the y starting at the origin 0 as neutral and still come up with the quadrants. The further up and to the right the stronger and more positive." <br>
 "Clarify what high energy means." <br>
 
 #### wireframe 3 and 3.5
