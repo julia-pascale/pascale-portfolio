@@ -76,5 +76,12 @@ The title is another area to add value to this graph. Here are some of the title
 **"What feelings do emojis mean?"**
 
 ### final visualization
+Ultimately, I chose to make a few changes: <br>  
+1. Add a title and subtitle to get the reader onboard <br>  
+2. Add a dropdown filter so the reader can choose to only see the most interesting emoji <br>  
+3. Change the axis titles to get away from academic language <br>  
+4. Modernize the font <br>  
+5. Add gridlines to create quadrants <br>  
+6. Annotate the quadrants to explain at a glance <br>  
 <div class="flourish-embed flourish-scatter" data-src="visualisation/8626896">
   <script src="https://public.flourish.studio/resources/embed.js"></script></div>
