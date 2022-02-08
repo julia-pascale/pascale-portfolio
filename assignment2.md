@@ -83,6 +83,6 @@ Ultimately, I chose to make the following changes: <br>
 4. Change the axis titles to get away from academic language <br>  
 5. Modernize the font <br>  
 6. Add gridlines to create quadrants <br>  
-7. Annotate the quadrants to explain at a glance <br>  
+7. Annotate the quadrants to explain them at a glance <br>  
 <div class="flourish-embed flourish-scatter" data-src="visualisation/8626896">
   <script src="https://public.flourish.studio/resources/embed.js"></script></div>
