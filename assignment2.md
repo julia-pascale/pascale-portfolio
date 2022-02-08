@@ -31,13 +31,15 @@ The first thing I wanted to try was tagging the emotions by their positivity. Th
 "I am confused 😔 " <br>  
 "The labeling of the axes is important - need better descriptors than valance and arousal. Simple “strength of emotion” and “positive/negative emotion” is clearer." <br>  
 "Do the emoji’s correspond with the dots? What’s valence, what’s arousal in regards to this? I am confused. Several of the neutral emojis don’t really seem very neutral to me."<br>  
-"This one is even more confusing because it doesn’t have the descriptors that show 1 is negative and 9 is positive and 1 is calm and 9 is excited. Also, wouldn’t a sleeping emoji be a 0 because being asleep is surely not being aroused at all, right? Why do axes both start at 1?"
+"This one is even more confusing because it doesn’t have the descriptors that show 1 is negative and 9 is positive and 1 is calm and 9 is excited. Also, wouldn’t a sleeping emoji be a 0 because being asleep is surely not being aroused at all, right? Why do axes both start at 1?" <br>
+"Rename the axes!"
 
 #### wireframe 2
 The second direction I went was to convert the graph into quadrants. With the way the scoring was set up in the study, one could say 5 on valence and 5 on arousal is "true neutral," so even though the axes don't go from -5 to 5, the shape still works: <br>  
 <img src="/quad_grid_sketch.jpg" width="800" height="600"> <br> 
 ##### feedback
-"I think people generally understand the idea of the quadrants.  And it works in this example since you have a good/bad binary on one axis. Better to have a binary on the other axis too- rather than just strength of emotion which is a continuum. I think you could arrange the positive/negative emotion on the x-axis and the strength on the y starting at the origin 0 as neutral and still come up with the quadrants.  But sometimes they will do a regressive line like in the 2nd example. The further up and to the right the stronger and more positive."
+"I think people generally understand the idea of the quadrants.  And it works in this example since you have a good/bad binary on one axis. Better to have a binary on the other axis too- rather than just strength of emotion which is a continuum. I think you could arrange the positive/negative emotion on the x-axis and the strength on the y starting at the origin 0 as neutral and still come up with the quadrants.  But sometimes they will do a regressive line like in the 2nd example. The further up and to the right the stronger and more positive." <br>
+"Clarify what high energy means." <br>
 
 #### wireframe 3 and 3.5
 The next direction I went was to make a cut to look only at the similar emoji - those that I felt generally mean the same thing. I thought it might be interesting to see how the scores differed between emoji that look similar. What made people think one eye shape was more energetic than another eye shape? But to make the differences between the similar emoji clear, the axes needed to be really weird: <br>  
@@ -53,10 +55,20 @@ The next change to try was to add colors. Feelings charts usually do have colors
 ##### feedback
 "I like this one!" <br>  
 "This is confusing. What do the colors mean here? Based on the placement on the graph, I can guess that the lower numbers are bad and the higher numbers are good on the y-axis, but I still don’t really understand this."<br>  
-"lines that separate all 4 quadrants are misleading, I would think where the two lines intersect should be (0,0) but it corresponds with (5,5)"
+"lines that separate all 4 quadrants are misleading, I would think where the two lines intersect should be (0,0) but it corresponds with (5,5)" <br>  
+"Can you try to add a visual indicator of variance? Maybe some arrows to indicate in what direction the variance is." <br>
+"Do you have information about frequency of use?"
 
 ### reflection on the feedback
-People seemed to agree that the axis labels were really confusing. They liked looking at color but didn't know what color meant. Here are some of the axis labels I tried:
+People seemed to agree that the axis labels were really confusing. Here are some of the axis labels I tried:
 good/bad  | energy level <br>  
 positivity | energy <br> 
+positivity of feeling | no label for arousal <br>
+energy of feeling | no label for valence <br>
+**pleasantness of feeling | energy of feeling** <br>
 
+The title is another area to add value to this graph. Here are some of the titles I came up with:
+"How do these emojis feel to you?" <br>
+"What feeling do these emoji bring up for people?" <br>
+"How Americans Scored Emoji Using the Arousal-Valence Model" <-- this would work for the actual study graphic <br>  
+"The relative pleasantness and energy levels from emoji" <br>
