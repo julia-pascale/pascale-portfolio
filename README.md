@@ -20,6 +20,8 @@ I hope to learn how to make data visualizations that look cool and help people p
 
 #### assignment 2
 
+###### [critique by design](https://julia-pascale.github.io/pascale-portfolio/assignment2.html) to improve a chart about emojis
+
 #### final project 
 
 ##### part 1
