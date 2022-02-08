@@ -42,7 +42,7 @@ The second direction I went was to convert the graph into quadrants. With the wa
 "Clarify what high energy means." <br>
 
 #### wireframe 3 and 3.5
-The next direction I went was to make a cut to look only at the similar emoji - those that I felt generally mean the same thing. I thought it might be interesting to see how the scores differed between emoji that look similar. What made people think one eye shape was more energetic than another eye shape? But to make the differences between the similar emoji clear, the axes needed to be really weird: <br>  
+The next direction I went was to make a cut to look only at the similar emoji - those that I felt generally mean the same thing. I thought it might be interesting to see how the scores differed between emoji that look similar. What made people think one eye shape was more energetic than another eye shape? I also realized that I could make the emoji bigger, so I did. But to make the differences between the similar emoji clear, the axes needed to be really weird: <br>  
 <img src="/First_try_similar.png" width="500"> 
 <img src="/second_try_similar.png" width="500"> <br>  
 ##### feedback
@@ -70,5 +70,10 @@ energy of feeling | no label for valence <br>
 The title is another area to add value to this graph. Here are some of the titles I came up with:
 "How do these emojis feel to you?" <br>
 "What feeling do these emoji bring up for people?" <br>
-"How Americans Scored Emoji Using the Arousal-Valence Model" <-- this would work for the actual study graphic <br>  
-"The relative pleasantness and energy levels from emoji" <br>
+**"How Americans Scored Emoji Using the Arousal-Valence Model"** <-- this would work for the actual study graphic
+"The relative pleasantness and energy levels of emoji" <br>
+**"What feelings do emojis mean?"**
+
+### final visualization
+<div class="flourish-embed flourish-scatter" data-src="visualisation/8626896">
+  <script src="https://public.flourish.studio/resources/embed.js"></script></div>
