@@ -44,7 +44,7 @@ The second direction I went was to convert the graph into quadrants. With the wa
 
 #### wireframe 3 and 3.5
 The next direction I went was to make a cut to look only at the similar emoji - those that I felt generally mean the same thing. I thought it might be interesting to see how the scores differed between emoji that look similar. What made people think one eye shape was more energetic than another eye shape? I also realized that I could make the emoji bigger, so I did. But to make the differences between the similar emoji clear, the axes needed to be really weird: <br>  
-<img src="/First_try_similar.png" width="500"> 
+<img src="https://raw.githubusercontent.com/julia-pascale/pascale-portfolio/main/First_try_similar.png" width="500"> 
 <img src="/second_try_similar.png" width="500"> <br>  
 ##### feedback
 "Less emojis makes this easier to read/understand. Scales are even wonkier - why are we starting at 2 and 3, instead of 0? Still unclear on what energy means in regards to these emojis."
@@ -61,17 +61,16 @@ The next change to try was to add colors. Feelings charts usually do have colors
 "Do you have information about frequency of use?"
 
 ### reflection on the feedback
-People seemed to agree that the axis labels were really confusing. Here are some of the axis labels I tried:
-good/bad  | energy level <br>  
-positivity | energy <br> 
+##### People seemed to agree that the axis labels were really confusing. Here are some of the axis labels I tried:  
+good/bad | energy level <br>  positivity | energy <br> 
 positivity of feeling | no label for arousal <br>
 energy of feeling | no label for valence <br>
 **pleasantness of feeling | energy of feeling** <br>
 
-The title is another area to add value to this graph. Here are some of the titles I came up with:
+##### The title is another area to add value to this graph. Here are some of the titles I came up with:  
 "How do these emojis feel to you?" <br>
 "What feeling do these emoji bring up for people?" <br>
-**"How Americans Scored Emoji Using the Arousal-Valence Model"** <-- this would work for the actual study graphic
+"How Americans Scored Emoji Using the Arousal-Valence Model" **<- this would work for the actual study graphic** <br>
 "The relative pleasantness and energy levels of emoji" <br>
 **"What feelings do emojis mean?"**
 
