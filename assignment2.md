@@ -76,7 +76,7 @@ The title is another area to add value to this graph. Here are some of the title
 **"What feelings do emojis mean?"**
 
 ### final visualization
-Ultimately, I chose to make a few changes: <br>  
+Ultimately, I chose to make the following changes: <br>  
 1. Add a title and subtitle to get the reader onboard <br>  
 2. Add a dropdown filter so the reader can choose to only see the most interesting emoji <br>  
 3. Change the axis titles to get away from academic language <br>  
