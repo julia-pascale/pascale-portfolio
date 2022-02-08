@@ -4,19 +4,19 @@
 This assignment was to redesign a visualization to make it better. The visualization I chose was from [this study](https://www.sciencedirect.com/science/article/pii/S0963996918308664) about emoji. 
 Here is the original visualization:
 
-<img src="/Original_emoji_plot.jpg" width="800" height="600">
+![original plot](/Original_emoji_plot.jpg)
 
 ### intro
 The study surveyed 1000 Americans to learn what different emoji meant to them. They were then asked to score the emoji on "Arousal" and "Valence" - more on those words later. [Here](https://www.nature.com/articles/s41598-021-04357-7) is another study that plots emoji along the same axes. To get some quick context for this type of visualization I read up about feelings categorizations. From the [wikipedia page](https://en.wikipedia.org/wiki/Emotion_classification) about Emotion Classification: "The Arousal-Nonarousal Scale measures how energized or soporific one feels. It is not the intensity of the emotion—for grief and depression can be low arousal intense feelings. While both anger and rage are unpleasant emotions, rage has a higher intensity or a higher arousal state. However boredom, which is also an unpleasant state, has a low arousal value." <br>  
 
 "Feelings wheels" and similar charts are commonly used to support people in expressing their moods as part of mental health mindfulness and treatment. Approaching emotions from a scientific perspective, and treating the experience of feeling a certain emotion with a student's mind, is a component of mindfulness that can help people process and deal with unpleasant emotions. See also, this graph, a good example of an application of this model, which is from [this Psychologist's website](https://www.marcbrackett.com/the-colors-of-our-emotions/): <br>   
 
-<img src="/blog_emotions_quad.png" width="550" height="550">
+![quadrant about feelings](/blog_emotions_quad.png)
 Source: Marc Brackett, PhD. https://www.marcbrackett.com/the-colors-of-our-emotions/
 
 ### commentary on original visualization
 Here is the original plot again: <br>  
-<img src="/Original_emoji_plot.jpg" width="600"> <br>  
+![original plot](/Original_emoji_plot.jpg)  
 
 After showing this visualization to 8 people, I can confidently say that the initial response to this visualization is to smile. I think from a design perspective that it's convenient for a scatter plot that the emoji are already shaped like dots. They look particularly good placed directly on the axes. This is sort of a unique opportunity because the data visualization can contain the subject of the study itself - not even an image of the subject, because the subject is the image. <br>  
 
@@ -27,7 +27,7 @@ I liked that this was a scatterplot for reasons discussed above. I decided early
 
 #### wireframe 1
 The first thing I wanted to try was tagging the emotions by their positivity. The study tagged these emoji into those categories in table form, so I only had to mark up the existing graph, which I did in Canva: <br>  
-<img src="/Negative.png" width="800" height="600">
+![negative](/Negative.png)
 ##### feedback on wireframe 1
 "I am confused 😔 " <br>  
 "The labeling of the axes is important - need better descriptors than valance and arousal. Simple “strength of emotion” and “positive/negative emotion” is clearer." <br>  
@@ -37,21 +37,21 @@ The first thing I wanted to try was tagging the emotions by their positivity. Th
 
 #### wireframe 2
 The second direction I went was to convert the graph into quadrants. With the way the scoring was set up in the study, one could say 5 on valence and 5 on arousal is "true neutral," so even though the axes don't go from -5 to 5, the shape still works: <br>  
-<img src="/quad_grid_sketch.jpg" width="800" height="600"> <br> 
+![quad grid sketch by hand](/quad_grid_sketch.jpg) 
 ##### feedback
 "I think people generally understand the idea of the quadrants.  And it works in this example since you have a good/bad binary on one axis. Better to have a binary on the other axis too- rather than just strength of emotion which is a continuum. I think you could arrange the positive/negative emotion on the x-axis and the strength on the y starting at the origin 0 as neutral and still come up with the quadrants.  But sometimes they will do a regressive line like in the 2nd example. The further up and to the right the stronger and more positive." <br>
 "Clarify what high energy means." <br>
 
 #### wireframe 3 and 3.5
 The next direction I went was to make a cut to look only at the similar emoji - those that I felt generally mean the same thing. I thought it might be interesting to see how the scores differed between emoji that look similar. What made people think one eye shape was more energetic than another eye shape? I also realized that I could make the emoji bigger, so I did. But to make the differences between the similar emoji clear, the axes needed to be really weird: <br>  
-<img src="https://raw.githubusercontent.com/julia-pascale/pascale-portfolio/main/First_try_similar.png" width="500"> 
-<img src="/second_try_similar.png" width="500"> <br>  
+![](/First_try_similar.png)
+![](/second_try_similar.png)
 ##### feedback
 "Less emojis makes this easier to read/understand. Scales are even wonkier - why are we starting at 2 and 3, instead of 0? Still unclear on what energy means in regards to these emojis."
 
 #### wireframe 4
 The next change to try was to add colors. Feelings charts usually do have colors. I'm not sure they are needed but I do think they look nice: <br>  
-<img src="/first_try_colors.png" width="800" height="600">
+![](/first_try_colors.png)
 
 ##### feedback
 "I like this one!" <br>  
