@@ -77,11 +77,12 @@ The title is another area to add value to this graph. Here are some of the title
 
 ### final visualization
 Ultimately, I chose to make the following changes: <br>  
-1. Add a title and subtitle to get the reader onboard <br>  
-2. Add a dropdown filter so the reader can choose to only see the most interesting emoji <br>  
-3. Change the axis titles to get away from academic language <br>  
-4. Modernize the font <br>  
-5. Add gridlines to create quadrants <br>  
-6. Annotate the quadrants to explain at a glance <br>  
+1. Allow the emoji to be their own dots on the scatterplot <br>  
+2. Add a title and subtitle to get the reader onboard <br>  
+3. Add a dropdown filter so the reader can choose to only see the most interesting emoji <br>  
+4. Change the axis titles to get away from academic language <br>  
+5. Modernize the font <br>  
+6. Add gridlines to create quadrants <br>  
+7. Annotate the quadrants to explain at a glance <br>  
 <div class="flourish-embed flourish-scatter" data-src="visualisation/8626896">
   <script src="https://public.flourish.studio/resources/embed.js"></script></div>
