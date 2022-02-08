@@ -1,5 +1,5 @@
 ## HW assignment 2: critique by design
-[back to portfolio](/README.html)
+[back to portfolio](https://julia-pascale.github.io/pascale-portfolio/)
 
 This assignment was to redesign a visualization to make it better. The visualization I chose was from [this study](https://www.sciencedirect.com/science/article/pii/S0963996918308664) about emoji. 
 Here is the original visualization:
