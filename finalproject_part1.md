@@ -8,17 +8,22 @@ Evictions are one way that people can be housing insecure, and even when evictio
 
 ### visualizations and sketches
 
-SKETCH OF STORYBOARD GOES HERE
+
 
 The story will begin with a chart of evictions over time. 
 
+![property values](/Property_Values.jpg)
 Then I will show the change in property values over time in Allegheny County zip codes that have a lot of evictions (I still need to figure out how I will define "a lot" by going through the data). 
 
+![race and eviction](/Race_Eviction.jpg)
+![eviction map](/Redlining_SS.png)
+![redlining map](/Eviction_map_SS.png)
 I will also show race and eviction, as well as a map of neighborhoods that have a lot of evictions alongside Pittsburgh's original redlining map. This is not an original idea, but I will recreate the visual because I think it will be good, doable practice in GIS, and I think it's really powerful storytelling. 
 
-
+![race and eviction](/Children_Eviction.jpg)
 I'll make another line chart to show evictions in areas that have a lot of children (same "a lot" caveat as above) and write a narrative about the impacts of eviction on children.
 
+![race and eviction](/211_data.png)
 I will end the story with some stacked bars that show what happens when people aren't getting evicted. I'll use 211 calls data to tell this part of the story, and the viewer will see the types of calls that occurred during the eviction moratorium.
 
 The call to action will be to create a push for a comprehensive eviction diversion program, like [the one that exists in Philadelphia](https://eviction-diversion.phila.gov/#/About), which requires landlords to participate in mediation before evicting their tenants. 
