@@ -1,6 +1,6 @@
 ## final project - part one
 
-#### intro
+### intro
 
 Housing affordability and access to safe, quality housing are problems of an astounding scale, and their negative impacts bleed into so many areas of life - healthcare, food access, schools, infrastructure, work - there's a reason that "Housing First" has become a refrain in social services. More information about Housing First can be found [here](https://endhomelessness.org/resource/housing-first/) with the National Alliance to End Homelessness. Ensuring that people have access to safe and stable housing should be the first step, and it has powerful downstream effects for our other services. For example, giving people housing can save tens of thousands of dollars in emergency room costs per year. (Sturtevant & Viveiros, 2016) <br>
 
@@ -24,6 +24,11 @@ I will end the story with some stacked bars that show what happens when people a
 The call to action will be to create a push for a comprehensive eviction diversion program, like [the one that exists in Philadelphia](https://eviction-diversion.phila.gov/#/About), which requires landlords to participate in mediation before evicting their tenants. 
 
 ### data 
+Data about evictions in Allegheny County is collected by the [CREATE Lab at CMU](https://cmucreatelab.org/) and is hosted by the [Eviction Lab](https://evictionlab.org/eviction-tracking/pittsburgh-pa/). They provide evictions by zip code and whether or not that zip code is majority Black for the last two years, and they provide averages based on the eviction data going back to 2012. It's available [here](https://evictionlab.org/eviction-tracking/get-the-data/) as a CSV. I emailed them to ask if I can have the data they used to calculate the averages because it goes back further, but even if they won't send it to me, I will be able to make powerful visualizations. 
 
-### Citations
+Data about 211 calls in Allegheny County is hosted by the Western Pennsylvania Regional Data Center ((WPRDC)[https://data.wprdc.org/dataset/211-requests]) and provided by the United Way of Southwestern PA.
+
+Data about the presence of children in a household and the racial makeup of a geography will come from the census. 
+### citations
+I will use Zotero to keep track of the sources I use and to generate citations. Here's one that I used in the intro:
 Sturtevant, L., & Viveiros, J. (n.d.). How Investing in Housing Can Save on Health Care. https://www.tn.gov/content/dam/tn/health/program-areas/NHC_Invest_Housing_Save_Health_Care_2016.pdf
