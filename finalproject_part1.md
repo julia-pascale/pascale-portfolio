@@ -26,7 +26,7 @@ The call to action will be to create a push for a comprehensive eviction diversi
 ### data 
 Data about evictions in Allegheny County is collected by the [CREATE Lab at CMU](https://cmucreatelab.org/) and is hosted by the [Eviction Lab](https://evictionlab.org/eviction-tracking/pittsburgh-pa/). They provide evictions by zip code and whether or not that zip code is majority Black for the last two years, and they provide averages based on the eviction data going back to 2012. It's available [here](https://evictionlab.org/eviction-tracking/get-the-data/) as a CSV. I emailed them to ask if I can have the data they used to calculate the averages because it goes back further, but even if they won't send it to me, I will be able to make powerful visualizations. 
 
-Data about 211 calls in Allegheny County is hosted by the Western Pennsylvania Regional Data Center ((WPRDC)[https://data.wprdc.org/dataset/211-requests]) and provided by the United Way of Southwestern PA.
+Data about 211 calls in Allegheny County is hosted by the Western Pennsylvania Regional Data Center [(WPRDC)](https://data.wprdc.org/dataset/211-requests) and provided by the United Way of Southwestern PA.
 
 Data about the presence of children in a household and the racial makeup of a geography will come from the census. 
 ### citations
