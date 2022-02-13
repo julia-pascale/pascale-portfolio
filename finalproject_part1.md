@@ -11,7 +11,7 @@ Evictions are one way that people can be housing insecure, and even when evictio
 The story will begin with a chart that is yet to be designed of evictions over time. 
 
 ![property values](/Property_Values.jpg)
-Then I will show the change in property values over time in Allegheny County zip codes that have a lot of evictions (I still need to figure out how I will define "a lot" by going through the data). 
+Then I will show the change in property values over time in Allegheny County zip codes that have a lot of evictions (I still need to figure out how I will define "a lot" by going through the data). The purpose of this chart will be to illustrate landlords' greed, as rents increase even when properties don't transact, and how it tracks with housing insecurity. 
 
 ![race and eviction](/Race_Eviction.jpeg)
 ![eviction map](/Redlining_SS.png)
@@ -27,7 +27,9 @@ I will end the story with some stacked bars that show what happens when people a
 The call to action will be to create a push for a comprehensive eviction diversion program, like [the one that exists in Philadelphia](https://eviction-diversion.phila.gov/#/About), which requires landlords to participate in mediation before evicting their tenants. 
 
 ### data 
-Data about evictions in Allegheny County is collected by the [CREATE Lab at CMU](https://cmucreatelab.org/) and is hosted by the [Eviction Lab](https://evictionlab.org/eviction-tracking/pittsburgh-pa/). They provide evictions by zip code and whether or not that zip code is majority Black for the last two years, and they provide averages based on the eviction data going back to 2012. It's available [here](https://evictionlab.org/eviction-tracking/get-the-data/) as a CSV. I emailed them to ask if I can have the data they used to calculate the averages because it goes back further, but even if they won't send it to me, I will be able to make powerful visualizations. It will just mean that I will have to change one of my charts (about the presence of children) because census data about children is only available up to 2019, and the data I know I can use about evictions is only specific for 2020 and 2021.<br>  
+Data about evictions in Allegheny County is collected by the [CREATE Lab at CMU](https://cmucreatelab.org/) and is hosted by the [Eviction Lab](https://evictionlab.org/eviction-tracking/pittsburgh-pa/). They provide evictions by zip code and whether or not that zip code is majority Black for the last two years, and they provide averages based on the eviction data going back to 2012. It's available [here](https://evictionlab.org/eviction-tracking/get-the-data/) as a CSV. <br>
+
+I emailed the CREATE Lab to ask if I can have the data they used to calculate the averages because it goes back further, but even if they won't send it to me, I will be able to make powerful visualizations. It will just mean that I will have to change one of my charts (about the presence of children) because census data about children is only available up to 2019, and the data I know I can use about evictions is only specific for 2020 and 2021.<br>  
 
 Data about 211 calls in Allegheny County is hosted by the Western Pennsylvania Regional Data Center ([WPRDC](https://data.wprdc.org/dataset/211-requests)) and provided by the United Way of Southwestern PA. <br>  
 
@@ -38,4 +40,4 @@ I will make the project in Shorthand. I think it will look a lot like an ArcGIS 
 
 ### citations
 I will use Zotero to keep track of the sources I use and to generate citations. Here's one that I used in the intro:
-Sturtevant, L., & Viveiros, J. (n.d.). How Investing in Housing Can Save on Health Care. https://www.tn.gov/content/dam/tn/health/program-areas/NHC_Invest_Housing_Save_Health_Care_2016.pdf
+Sturtevant, L., & Viveiros, J. (2016, January). How Investing in Housing Can Save on Health Care. https://www.tn.gov/content/dam/tn/health/program-areas/NHC_Invest_Housing_Save_Health_Care_2016.pdf
