@@ -31,9 +31,11 @@ Data about evictions in Allegheny County is collected by the [CREATE Lab at CMU]
 
 I emailed the CREATE Lab to ask if I can have the data they used to calculate the averages because it goes back further, but even if they won't send it to me, I will be able to make powerful visualizations. It will just mean that I will have to change one of my charts (about the presence of children) because census data about children is only available up to 2019, and the data I know I can use about evictions is only specific for 2020 and 2021.<br>  
 
-Data about 211 calls in Allegheny County is hosted by the Western Pennsylvania Regional Data Center ([WPRDC](https://data.wprdc.org/dataset/211-requests)) and provided by the United Way of Southwestern PA. <br>  
+Data about 211 calls in Allegheny County is hosted by the Western Pennsylvania Regional Data Center ([WPRDC](https://data.wprdc.org/dataset/211-requests)) and provided by the United Way of Southwestern PA. WPRDC also has Allegheny County property assessment data that includes the most recent sale price of each parcel in the county. <br> 
 
 Data about the presence of children in a household and the racial makeup of a geography will come from the [Census](data.census.gov). <br>  
+
+For the GIS visualization, a shapefile version of the 1937 Home Owners Loan Corp map of Pittsburgh, aka the redlining map, is available from WPRDC. Pennsylvania ZIP codes are available from [PASDA](https://www.pasda.psu.edu/).
 
 ### method
 I will make the project in Shorthand. I think it will look a lot like an ArcGIS storymap when it's finished, with images filling the page and text appearing in boxes as you scroll. I'll make one of my visualizations in GIS, and I'll try to push myself to use Tableau for the others. This would definitely be a great opportunity to practice! If after a while it seems like Tableau will be too hard, I will use Flourish instead. For cleaning and organizing the data to get it into Tableau, I'll use Excel.
