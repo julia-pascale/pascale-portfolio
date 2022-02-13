@@ -8,9 +8,7 @@ Evictions are one way that people can be housing insecure, and even when evictio
 
 ### visualizations and sketches
 
-
-
-The story will begin with a chart of evictions over time. 
+The story will begin with a chart that is yet to be designed of evictions over time. 
 
 ![property values](/Property_Values.jpg)
 Then I will show the change in property values over time in Allegheny County zip codes that have a lot of evictions (I still need to figure out how I will define "a lot" by going through the data). 
@@ -35,6 +33,8 @@ Data about 211 calls in Allegheny County is hosted by the Western Pennsylvania R
 
 Data about the presence of children in a household and the racial makeup of a geography will come from the [Census](data.census.gov). <br>  
 
+### method
+I will make the project in Shorthand. I think it will look a lot like an ArcGIS storymap when it's finished, with images filling the page and text appearing in boxes as you scroll. I'll make one of my visualizations in GIS, and I'll try to push myself to use Tableau for the others. This would definitely be a great opportunity to practice! If after a while it seems like Tableau will be too hard, I will use Flourish instead. For cleaning and organizing the data to get it into Tableau, I'll use Excel.
 
 ### citations
 I will use Zotero to keep track of the sources I use and to generate citations. Here's one that I used in the intro:
