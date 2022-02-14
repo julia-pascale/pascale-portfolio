@@ -42,7 +42,7 @@ The call to action will be to create a push for a comprehensive eviction diversi
 I will make the project in Shorthand. It will be a website, with images filling the page and text appearing in boxes as the reader scrolls. I'll make one of my visualizations in GIS, and I'll try to push myself to use Tableau for the others. This would definitely be a great opportunity to practice! If after a while it seems like Tableau will be too hard, I will use Flourish instead. For cleaning and organizing the data to get it into Tableau, I'll use Excel.
 
 ### citations
-I will use Zotero to keep track of the sources I use and to generate citations. Here's one that I used in the intro:
+I will use Zotero to keep track of the sources I use and to generate citations. Here's one that I used in the intro: <br>  
 Sturtevant, L., & Viveiros, J. (2016, January). How Investing in Housing Can Save on Health Care. https://www.tn.gov/content/dam/tn/health/program-areas/NHC_Invest_Housing_Save_Health_Care_2016.pdf <br>  
 
 [back to portfolio](https://julia-pascale.github.io/pascale-portfolio/)
