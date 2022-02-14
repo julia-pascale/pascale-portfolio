@@ -43,4 +43,6 @@ I will make the project in Shorthand. It will be a website, with images filling 
 
 ### citations
 I will use Zotero to keep track of the sources I use and to generate citations. Here's one that I used in the intro:
-Sturtevant, L., & Viveiros, J. (2016, January). How Investing in Housing Can Save on Health Care. https://www.tn.gov/content/dam/tn/health/program-areas/NHC_Invest_Housing_Save_Health_Care_2016.pdf
+Sturtevant, L., & Viveiros, J. (2016, January). How Investing in Housing Can Save on Health Care. https://www.tn.gov/content/dam/tn/health/program-areas/NHC_Invest_Housing_Save_Health_Care_2016.pdf <br>  
+
+[back to portfolio](https://julia-pascale.github.io/pascale-portfolio/)
