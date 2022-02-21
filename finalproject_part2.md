@@ -21,11 +21,11 @@ The 10 zip codes with most eviction filings: 15221, 15235, 15146, 15206, 15202, 
 ![redlining map](/Eviction_map_SS.png) <br>  
 I will also show race and eviction, as well as a map of neighborhoods that have a lot of evictions alongside Pittsburgh's original redlining map. This is not an original idea, as the right hand map is a screenshot from the Eviction Lab, but I will recreate this visual because I think it will be good, doable practice in GIS, and I think it could be really powerful storytelling if I critiqued it by design. 
 
-![race and eviction](/Children_Eviction.jpeg)
+![draft 211 image](/Children_Eviction.jpeg)
 I'll make another line chart to show evictions in areas that have a lot of children (same "a lot" caveat as above) and write a narrative about the impacts of eviction on children.
+<div class="flourish-embed flourish-chart" data-src="visualisation/8768769"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
-![race and eviction](/211_data.png)
-I will end the story with some stacked bars that show what happens when people aren't getting evicted. I'll use 211 call data to tell this part of the story, and the viewer will see the types of calls that occurred during the eviction moratorium.
+I will end the story with some stacked bars that show 211 calls over time. This is a great proxy for need because of 211 definition here. 
 
 The call to action will be to create a push for a comprehensive eviction diversion program, like [the one that exists in Philadelphia](https://eviction-diversion.phila.gov/#/About), which requires landlords to participate in mediation before evicting their tenants. 
 
