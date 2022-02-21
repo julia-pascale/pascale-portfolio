@@ -38,6 +38,7 @@ oooooo <br>
 oooo<b>O</b> <br>
 
 As the figures above show, our current data suggest there was roughly 1 eviction filing for every 17 renter households between 2000 and 2016. Approximately 1 in 40 renter households were evicted over this period. To put these numbers into perspective, at the peak of the financial crisis in 2010, estimates suggest slightly over one million foreclosures were completed nationally. By comparison, we see almost a million evictions against tenants every single year. <br>  
+[source](https://evictionlab.org/national-estimates/) <br>  
 
 ### moodboard
 ![Mill quote](/LLs_growrich.jpg)
