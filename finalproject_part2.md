@@ -16,7 +16,7 @@ Then I will show the change in property values over time in Allegheny County zip
 
 The 10 zip codes with most eviction filings: 15221, 15235, 15146, 15206, 15202, 15205, 15212, 15236, 15025, 15210. These zip codes experienced the highest average property value increase since 2017?
 
-![race and eviction](/Race_Eviction.jpeg)
+![Mill quote](/LLs_growrich.jpg)
 ![eviction map](/Redlining_SS.png)
 ![redlining map](/Eviction_map_SS.png) <br>  
 I will also show race and eviction, as well as a map of neighborhoods that have a lot of evictions alongside Pittsburgh's original redlining map. This is not an original idea, as the right hand map is a screenshot from the Eviction Lab, but I will recreate this visual because I think it will be good, doable practice in GIS, and I think it could be really powerful storytelling if I critiqued it by design. 
