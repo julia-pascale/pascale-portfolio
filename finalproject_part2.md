@@ -53,6 +53,7 @@ As the figures above show, our current data suggest there was roughly 1 eviction
 #### person 2 - late 20s, tech employee, homeowner with mortgage, Richmond VA
 #### person 3 - early 60s, architect, homeowner without mortgage, Hudson Valley NY
 #### person 4 - late 20s, city government employee, renter, Pittsburgh PA
+#### person 5 - early 30s, student, renter, LA
 
 
 [back to portfolio](https://julia-pascale.github.io/pascale-portfolio/)
