@@ -28,7 +28,16 @@ I will end the story with some stacked bars that show 211 calls over time. This 
 ![draft 211 image](/eviction_infographic.png)<br>  
 [source](https://joinroost.com/rent-help/renters-rights/the-eviction-process-what-renters-need-to-know/)
 
-The call to action will be to create a push for a comprehensive eviction diversion program, like [the one that exists in Philadelphia](https://eviction-diversion.phila.gov/#/About), which requires landlords to participate in mediation before evicting their tenants. Must find data about eviction outcomes in Philly!
+The call to action will be to create a push for a comprehensive eviction diversion program, like [the one that exists in Philadelphia](https://eviction-diversion.phila.gov/#/About), which requires landlords to participate in mediation before evicting their tenants. Must find data about eviction outcomes in Philly! <br>  
+
+#### how many people get evicted?
+Over 16 years, 1 in 17: <br>  
+
+oooooo <br>
+oooooo <br>
+oooo<b>O</b> <br>
+
+As the figures above show, our current data suggest there was roughly 1 eviction filing for every 17 renter households between 2000 and 2016. Approximately 1 in 40 renter households were evicted over this period. To put these numbers into perspective, at the peak of the financial crisis in 2010, estimates suggest slightly over one million foreclosures were completed nationally. By comparison, we see almost a million evictions against tenants every single year. <br>  
 
 ### moodboard
 ![Mill quote](/LLs_growrich.jpg)
