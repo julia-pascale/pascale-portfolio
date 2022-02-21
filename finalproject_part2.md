@@ -40,9 +40,9 @@ The call to action will be to create a push for a comprehensive eviction diversi
 ### feedback
 
 #### person 1 - early 20s, student, renter, Chapel Hill NC
-#### person 2 - late 20s, consultant, homeowner with mortgage, Pittsburgh PA
+#### person 2 - late 20s, tech employee, homeowner with mortgage, Richmond VA
 #### person 3 - early 60s, architect, homeowner without mortgage, Hudson Valley NY
-#### person 4 - late 20s, city government employee + general hater, renter, Pittsburgh PA
+#### person 4 - late 20s, city government employee, renter, Pittsburgh PA
 
 
 [back to portfolio](https://julia-pascale.github.io/pascale-portfolio/)
