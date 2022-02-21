@@ -32,8 +32,8 @@ The call to action will be to create a push for a comprehensive eviction diversi
 ![eviction map](/Redlining_SS.png)
 ![eviction banner](/eviction_3.7M.png)
 ![sheriff](/sheriff_in_house.png)
-![parasite poster](/LLs_parasites.png)
-[source](https://www.instagram.com/p/CCNmaJPlBoP/)
+![parasite poster](/LLs_parasites.png) <br>  
+[source of poster](https://www.instagram.com/p/CCNmaJPlBoP/)
 ### feedback
 
 #### person 1
