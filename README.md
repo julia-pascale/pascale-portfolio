@@ -26,7 +26,7 @@ I hope to learn how to make data visualizations that look cool and help people p
 
 ##### [part 1](https://julia-pascale.github.io/pascale-portfolio/finalproject_part1.html)
 
-##### part 2
+##### [part 2](https://julia-pascale.github.io/pascale-portfolio/finalproject_part2.html)
 
 ##### part 3
 
