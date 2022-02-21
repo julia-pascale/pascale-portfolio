@@ -28,7 +28,7 @@ I will end the story with some stacked bars that show 211 calls over time. This 
 ![draft 211 image](/eviction_infographic.png)<br>  
 [source](https://joinroost.com/rent-help/renters-rights/the-eviction-process-what-renters-need-to-know/)
 
-The call to action will be to create a push for a comprehensive eviction diversion program, like [the one that exists in Philadelphia](https://eviction-diversion.phila.gov/#/About), which requires landlords to participate in mediation before evicting their tenants. 
+The call to action will be to create a push for a comprehensive eviction diversion program, like [the one that exists in Philadelphia](https://eviction-diversion.phila.gov/#/About), which requires landlords to participate in mediation before evicting their tenants. Must find data about eviction outcomes in Philly!
 
 ### moodboard
 ![Mill quote](/LLs_growrich.jpg)
@@ -39,10 +39,10 @@ The call to action will be to create a push for a comprehensive eviction diversi
 [source of poster](https://www.instagram.com/p/CCNmaJPlBoP/)
 ### feedback
 
-#### person 1
-#### person 2
-#### person 3
-#### person 4
+#### person 1 - early 20s, student, renter, Chapel Hill NC
+#### person 2 - late 20s, consultant, homeowner with mortgage, Pittsburgh PA
+#### person 3 - early 60s, architect, homeowner without mortgage, Hudson Valley NY
+#### person 4 - late 20s, city government employee + general hater, renter, Pittsburgh PA
 
 
 [back to portfolio](https://julia-pascale.github.io/pascale-portfolio/)
