@@ -25,6 +25,9 @@ I'll make another line chart to show evictions in areas that have a lot of child
 
 I will end the story with some stacked bars that show 211 calls over time. This is a great proxy for need because of 211 definition here. 
 
+![draft 211 image](/eviction_infographic.png)<br>  
+[source](https://joinroost.com/rent-help/renters-rights/the-eviction-process-what-renters-need-to-know/)
+
 The call to action will be to create a push for a comprehensive eviction diversion program, like [the one that exists in Philadelphia](https://eviction-diversion.phila.gov/#/About), which requires landlords to participate in mediation before evicting their tenants. 
 
 ### moodboard
