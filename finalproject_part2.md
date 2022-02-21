@@ -31,7 +31,7 @@ The call to action will be to create a push for a comprehensive eviction diversi
 ![Mill quote](/LLs_growrich.jpg)
 ![eviction map](/Redlining_SS.png)
 ![eviction banner](/eviction_3.7M.png)
-
+![sheriff](/sheriff_in_house.png)
 
 ### feedback
 
