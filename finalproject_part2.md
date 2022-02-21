@@ -21,7 +21,7 @@ The 10 zip codes with most eviction filings: 15221, 15235, 15146, 15206, 15202, 
 ![redlining map](/Eviction_map_SS.png) <br>  
 I will also show race and eviction, as well as a map of neighborhoods that have a lot of evictions alongside Pittsburgh's original redlining map. This is not an original idea, as the right hand map is a screenshot from the Eviction Lab, but I will recreate this visual because I think it will be good, doable practice in GIS, and I think it could be really powerful storytelling if I critiqued it by design. 
 
-![draft 211 image](/Children_Eviction.jpeg)
+![draft 211 image](/draft_bars.jpg)
 I'll make another line chart to show evictions in areas that have a lot of children (same "a lot" caveat as above) and write a narrative about the impacts of eviction on children.
 <div class="flourish-embed flourish-chart" data-src="visualisation/8768769"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
