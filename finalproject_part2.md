@@ -17,18 +17,18 @@ The story will begin with a line chart of evictions in Allegheny County over tim
 ![neighborhoods with evictions](/zipcodes_with_top10eviction.jpg) <br> 
 (15221, 15235, 15146, 15206, 15202, 15205, 15212, 15236, 15025, 15210.) 
 
-## The average landlord who filed for eviction in these zip codes did so five times between 2009 and 2018. This is likely an undercount, as they own properties in different names. 
+## The average landlord who filed for eviction in these zip codes did so five times between 2009 and 2018. This is certainly an undercount, as many of them own properties in different names and LLCs. 
 <div class="flourish-embed flourish-scatter" data-src="visualisation/8774763"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 ![neighborhoods with evictions](/zipcodes_with_kids.jpg) <br>
 ![redlining](/HOLC_map.jpg)  <br>  
-I will also map race and eviction, as well as a map of neighborhoods that have a lot of evictions alongside Pittsburgh's original redlining map. This is not an original idea, as the right hand map is a screenshot from the Eviction Lab, but I will recreate this visual because I think it will be good, doable practice in GIS, and I think it could be really powerful storytelling if I critiqued it by design. 
+*Discussion here of redlining, concentrations of poverty, and evictions
 
 ![draft 211 image](/draft_bars.jpg)
-I'll make another line chart to show evictions in areas that have a lot of children (same "a lot" caveat as above) and write a narrative about the impacts of eviction on children.
+*Must write a narrative about the impacts of eviction on children.
 <div class="flourish-embed flourish-chart" data-src="visualisation/8768769"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
-I will end the story with some stacked bars that show 211 calls over time. This is a great proxy for need,because 211 is the phone line people can call to get immediate help with social services.  
+I will end the story with some stacked bars that show 211 calls over time. This is a great proxy for need, because 211 is the phone line people can call to get immediate help with social services.  
 
 ![draft 211 image](/eviction_infographic.png)<br>  
 [source](https://joinroost.com/rent-help/renters-rights/the-eviction-process-what-renters-need-to-know/)
