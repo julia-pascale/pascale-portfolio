@@ -60,13 +60,13 @@ Is there anything you particularly like about it? <br>
 The visualizations are drafts/screenshots/hand drawn so that I don’t spend a bunch of time on something that will be cut so keep that in mind. <br>  
 Particularly helpful would be commentary on your emotional reaction, and if the gist of any of the graphs is especially confusing. <br> 
 
-d. Interview findings: <Br> 
-**Person A: 60s, homeowner, mortgage **
+d. **Interview findings:** <Br> 
+**Person A: 60s, homeowner, mortgage**
   137% seems to be in a vacuum. What is overall appreciation?
   Maps assume too much local knowledge. I don’t know which communities are represented.
   I don’t understand evictions/count chart <br>  
 **Person B: 60s, homeowner, no mortgage**
-  I would try to make the gross evictions % relate to some other stat-% of renters or something. Also explain drop in 2020/1 (although we know why.) <br>  
+  I would try to make the gross evictions % relate to some other stat-% of renters or something. Also explain drop in 2020/1 (although we know why.) 
   Any stats to project for current situation?  
   You show price appreciation in highest eviction neighborhoods but what is the appreciation in other zip codes? If it doesn’t support the thesis maybe get rid of it?  
   The evictions per landlord is important but this line graph doesn’t clearly tell the story. You say “average” but can’t find that on the graph.
