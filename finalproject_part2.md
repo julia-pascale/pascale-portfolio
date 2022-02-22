@@ -12,12 +12,17 @@ The story will begin with a line chart of evictions in Allegheny County over tim
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/8763651"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
-Then I will show the change in property values over time in Allegheny County zip codes that have a lot of evictions (I still need to figure out how I will define "a lot" by going through the data). The purpose of this chart will be to illustrate growth in property owner wealth, as rents increase even when properties don't transact, and how it tracks with housing insecurity. 
+#### Property owners who have sold houses in the Allegheny County zip codes that have the most eviction filings have enjoyed an average appreciation of 137% since 2010. 
 
-The 10 zip codes with most eviction filings: 15221, 15235, 15146, 15206, 15202, 15205, 15212, 15236, 15025, 15210. These zip codes experienced the highest average property value increase since 2017?
+![neighborhoods with evictions](/zipcodes_with_top10eviction.jpg) <br> 
+(15221, 15235, 15146, 15206, 15202, 15205, 15212, 15236, 15025, 15210.) 
 
-![redlining map](/Eviction_map_SS.png) <br>  
-I will also show race and eviction, as well as a map of neighborhoods that have a lot of evictions alongside Pittsburgh's original redlining map. This is not an original idea, as the right hand map is a screenshot from the Eviction Lab, but I will recreate this visual because I think it will be good, doable practice in GIS, and I think it could be really powerful storytelling if I critiqued it by design. 
+#### The average landlord who filed for eviction in these zip codes did so five times between 2009 and 2018. This is likely an undercount, as they own properties in different names. 
+<div class="flourish-embed flourish-scatter" data-src="visualisation/8774763"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
+![neighborhoods with evictions](/zipcodes_with_kids.jpg) <br>
+![redlining](/HOLC_map.jpg)  <br>  
+I will also map race and eviction, as well as a map of neighborhoods that have a lot of evictions alongside Pittsburgh's original redlining map. This is not an original idea, as the right hand map is a screenshot from the Eviction Lab, but I will recreate this visual because I think it will be good, doable practice in GIS, and I think it could be really powerful storytelling if I critiqued it by design. 
 
 ![draft 211 image](/draft_bars.jpg)
 I'll make another line chart to show evictions in areas that have a lot of children (same "a lot" caveat as above) and write a narrative about the impacts of eviction on children.
@@ -31,11 +36,7 @@ I will end the story with some stacked bars that show 211 calls over time. This 
 The call to action will be to create a push for a comprehensive eviction diversion program, like [the one that exists in Philadelphia](https://eviction-diversion.phila.gov/#/About), which requires landlords to participate in mediation before evicting their tenants. Must find data about eviction outcomes in Philly! <br>  
 
 #### how many people get evicted?
-Over 16 years, 1 in 17: <br>  
-
-oooooo <br>
-oooooo <br>
-oooo<b>O</b> <br>
+![1 in 17](/IMG_5570.jpg) <br>  
 
 "As the figures above show, our current data suggest there was roughly 1 eviction filing for every 17 renter households between 2000 and 2016. Approximately 1 in 40 renter households were evicted over this period. To put these numbers into perspective, at the peak of the financial crisis in 2010, estimates suggest slightly over one million foreclosures were completed nationally. By comparison, we see almost a million evictions against tenants every single year." (Eviction Lab) [source link](https://evictionlab.org/national-estimates/) <br>  
 
