@@ -74,6 +74,7 @@ d. **Interview findings:** <Br>
 **Person C: Late 20s, homeowner, mortgage**
   I can’t tell what you’re expressing w the appreciation and eviction count stats, like duh landlords profit off poor people but you should be more explicit.
   I hope the moodboard stays. <br>
+  
 **Person D: Late 20s, homeowner, mortgage**
   This sentence confuses me: Property owners who have sold houses in the Allegheny County zip codes that have the most eviction filings have enjoyed an average appreciation of 137% since 2010.
   I’m pretty confused about what the map is showing.
