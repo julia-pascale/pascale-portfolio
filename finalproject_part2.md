@@ -50,7 +50,7 @@ The call to action will be to create a push for a comprehensive eviction diversi
 
 a. **Deciding who to attempt to reach with this story was difficult.** I know that people who work in housing or housing advocates will enjoy learning this information, but I also think it's an opportunity to educate the general public. I ultimately will hope that both groups will get something out of it, but anticipate it resonating more with those who are already geared towards caring about housing issues. <br>  
 
-b. **I spoke to 5 people total:** 2 from Pittsburgh, 2 in New York, and 1 in Richmond, VA. I selected a variety of ages and homeowner/renter statuses, as well as a variety of political orientations. Because I am making a case against landlords I felt it was important to test it on those who might be sympathetic to either side. I intend to also get feedback from someone who works in the affordable housing field but our availability did not line up in time for this due date. I wish I had found someone who had faced eviction. <br>  
+b. **I spoke to 5 people total:** 2 from Pittsburgh, 2 in New York, and 1 in Richmond, VA. I selected a variety of ages and homeowner/renter statuses, as well as a variety of political orientations. I think that by incorporating homeowners with and without mortgages, I am capturing people who can and cannot feasibly be evicted. Because I am making a case against landlords I felt it was important to test it on those who might be sympathetic to either side. I intend to also get feedback from someone who works in the affordable housing field but our availability did not line up in time for this due date. I wish I had found someone who had actually faced eviction. <br>  
 
 c. **Here are the questions I asked:** <br>  
 Do people unfamiliar with data visualization and/or evictions understand what the site is about? <br>  
@@ -61,27 +61,27 @@ The visualizations are drafts/screenshots/hand drawn so that I don’t spend a b
 Particularly helpful would be commentary on your emotional reaction, and if the gist of any of the graphs is especially confusing. <br> 
 
 d. **Interview findings:** <Br> 
-**Person A: 60s, homeowner, mortgage**
+**Person A: 60s, homeowner, mortgage** <br> 
   137% seems to be in a vacuum. What is overall appreciation?
   Maps assume too much local knowledge. I don’t know which communities are represented.
   I don’t understand evictions/count chart <br>  
-**Person B: 60s, homeowner, no mortgage**
+**Person B: 60s, homeowner, no mortgage** <br> 
   I would try to make the gross evictions % relate to some other stat-% of renters or something. Also explain drop in 2020/1 (although we know why.) 
   Any stats to project for current situation?  
   You show price appreciation in highest eviction neighborhoods but what is the appreciation in other zip codes? If it doesn’t support the thesis maybe get rid of it?  
   The evictions per landlord is important but this line graph doesn’t clearly tell the story. You say “average” but can’t find that on the graph.
   It is unclear what the last two maps are showing. The colorization is a great tool but showing the all GIS input checkboxes down to the 4 digit precision is confusing. <br>  
-**Person C: Late 20s, homeowner, mortgage**
+**Person C: Late 20s, homeowner, mortgage** <br> 
   I can’t tell what you’re expressing w the appreciation and eviction count stats, like duh landlords profit off poor people but you should be more explicit.
   I hope the moodboard stays. <br>
   
-**Person D: Late 20s, homeowner, mortgage**
+**Person D: Late 20s, homeowner, mortgage** <br>
   This sentence confuses me: Property owners who have sold houses in the Allegheny County zip codes that have the most eviction filings have enjoyed an average appreciation of 137% since 2010.
   I’m pretty confused about what the map is showing.
   And the two maps that follow (the green and HOLC grade one) need captions/some interpretative text. I’m having a hard time seeing what they refer to. I really love the hand drawn personal budget graph and think that will look great and be really interesting once you make it in a code program.
   Overall! I really like it. I think adding a sentence about “this problem is worse in some zip codes than others: etc” will help frame those 3 maps a bit better so we know what we’re looking at.
    I like the 1/17 figure a lot and wonder if you would like to move it to the top of the document. <br>  
-**Person E: Late 20s, renter**
+**Person E: Late 20s, renter** <br> 
   Love the mood board.
   I think this is a super compelling project and the last statistic is gutting - even as someone familiar with this *@%# - I had no idea evictions were that frequent. <br>  
   The one visualization that was kinda confusing to me was this one [# of evictions per landlord graph]
