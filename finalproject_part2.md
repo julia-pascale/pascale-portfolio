@@ -42,19 +42,13 @@ The call to action will be to create a push for a comprehensive eviction diversi
 
 
 ### moodboard
-![Mill quote](/LLs_growrich.jpg)
-![eviction map](/Redlining_SS.png)
-![eviction banner](/eviction_3.7M.png)
-![sheriff](/sheriff_in_house.png)
-![parasite poster](/LLs_parasites.png) <br>  
-[source of poster](https://www.instagram.com/p/CCNmaJPlBoP/)
+![moodboard](/moodboard.jpg)
+
+[source of parasite poster](https://www.instagram.com/p/CCNmaJPlBoP/)
+
 ### feedback
 
-#### person 1 - early 20s, student, renter, Chapel Hill NC
-#### person 2 - late 20s, tech employee, homeowner with mortgage, Richmond VA
-#### person 3 - early 60s, architect, homeowner without mortgage, Hudson Valley NY
-#### person 4 - late 20s, city government employee, renter, Pittsburgh PA
-#### person 5 - early 30s, student, renter, LA
+
 
 
 [back to portfolio](https://julia-pascale.github.io/pascale-portfolio/)
