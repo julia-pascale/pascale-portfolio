@@ -12,12 +12,12 @@ The story will begin with a line chart of evictions in Allegheny County over tim
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/8763651"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
-#### Property owners who have sold houses in the Allegheny County zip codes that have the most eviction filings have enjoyed an average appreciation of 137% since 2010. 
+## Property owners who have sold houses in the Allegheny County zip codes that have the most eviction filings have enjoyed an average appreciation of 137% since 2010. 
 
 ![neighborhoods with evictions](/zipcodes_with_top10eviction.jpg) <br> 
 (15221, 15235, 15146, 15206, 15202, 15205, 15212, 15236, 15025, 15210.) 
 
-#### The average landlord who filed for eviction in these zip codes did so five times between 2009 and 2018. This is likely an undercount, as they own properties in different names. 
+## The average landlord who filed for eviction in these zip codes did so five times between 2009 and 2018. This is likely an undercount, as they own properties in different names. 
 <div class="flourish-embed flourish-scatter" data-src="visualisation/8774763"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 ![neighborhoods with evictions](/zipcodes_with_kids.jpg) <br>
@@ -28,12 +28,12 @@ I will also map race and eviction, as well as a map of neighborhoods that have a
 I'll make another line chart to show evictions in areas that have a lot of children (same "a lot" caveat as above) and write a narrative about the impacts of eviction on children.
 <div class="flourish-embed flourish-chart" data-src="visualisation/8768769"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
-I will end the story with some stacked bars that show 211 calls over time. This is a great proxy for need because of 211 definition here. 
+I will end the story with some stacked bars that show 211 calls over time. This is a great proxy for need,because 211 is the phone line people can call to get immediate help with social services.  
 
 ![draft 211 image](/eviction_infographic.png)<br>  
 [source](https://joinroost.com/rent-help/renters-rights/the-eviction-process-what-renters-need-to-know/)
 
-The call to action will be to create a push for a comprehensive eviction diversion program, like [the one that exists in Philadelphia](https://eviction-diversion.phila.gov/#/About), which requires landlords to participate in mediation before evicting their tenants. Must find data about eviction outcomes in Philly! <br>  
+The call to action will be to create a push for a comprehensive eviction diversion program, like [the one that exists in Philadelphia](https://eviction-diversion.phila.gov/#/About), which requires landlords to participate in mediation before evicting their tenants. *Must find data about eviction outcomes in Philly! <br>  
 
 #### how many people get evicted?
 ![1 in 17](/IMG_5570.jpg) <br>  
