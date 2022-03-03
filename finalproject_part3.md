@@ -1,8 +1,8 @@
 ## final project - evictions in allegheny county - part 3
 
-## the final project is [here](https://carnegiemellon.shorthandstories.com/evictions-in-pittsburgh/index.html)! This is just a reflection on the process!
+## The real final project is [here](https://carnegiemellon.shorthandstories.com/evictions-in-pittsburgh/index.html)! This is just a reflection on the process!
 
-### summary
+### Summary
 
 [Part 1](https://julia-pascale.github.io/pascale-portfolio/finalproject_part1.html) - I identified my data sources and began to sketch out what the story could be. <br>  
 
