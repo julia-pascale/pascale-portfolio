@@ -25,10 +25,13 @@ I hope to learn how to make data visualizations that look cool and help people p
 #### final project 
 
 ##### [part 1](https://julia-pascale.github.io/pascale-portfolio/finalproject_part1.html)
+Selecting a topic and finding data.
 
 ##### [part 2](https://julia-pascale.github.io/pascale-portfolio/finalproject_part2.html)
+Showing draft visualizations to some patient users for feedback.
 
 ##### [part 3](https://julia-pascale.github.io/pascale-portfolio/finalproject_part3.html)
+Putting it all together and making it into a [story](https://carnegiemellon.shorthandstories.com/evictions-in-pittsburgh/index.html)
 
 
 
