@@ -24,7 +24,9 @@ Once I had these datasets cleaned up and providing me with useful insights, I pu
 
 Then I took stock of what I had and mapped out a story flow: <br> 
 
-![story flow](/story_flow.jpg)
+![story flow](/story_flow.jpg) <br>
+
+I also decided that I needed more for my call to action, so I looked up Philly's eviction diversion program outcomes and made a Sankey diagram. 
 
 ### Map failures
 Failure is part of the process! I wanted to use maps to talk about the geographic inequity of eviction. I identified the zip codes that had the most evictions by looking at the Eviction Lab's website, and then I decide to see how many children are in those zip codes, and how many people of color. The problem with this was that I only had children and race data by census tract, so I had to do a spatial join to get it for zip code boundaries, and I just couldn't get this join to work for the longest time! Here are just some of my failed maps: 
@@ -34,9 +36,11 @@ Failure is part of the process! I wanted to use maps to talk about the geographi
 ![map 3](/censustracts_withpoverty.jpg)
 ![map 4](/distributionPOC.jpg)
 
-Once I figured out what was up with all of my joins (I realized I was joining 2020 census data to 2016 tracts, so there were lots of holes), my users did not respond to them anyway, so I only ended up using 2 maps. <br> 
+Once I figured out what was up with all of my joins (I realized I was joining 2020 census data to 2016 tracts, so there were lots of holes), my users did not respond to most of the maps anyway, so I only ended up using 2 of them! They're in the shorthand site. <br> 
 
 ### Finishing and polishing
-Now it was time to write the copy for the story, put it in shorthand, and tinker with it. Then I sent it to my original group of test subjects for their final thoughts, and found stock photos. [Here's the finished product.](https://carnegiemellon.shorthandstories.com/evictions-in-pittsburgh/index.html) I'm proud of how it came out. 
+Now it was time to write the copy for the story, put it in shorthand, and tinker with it. Then I sent it to my original group of test subjects for their final thoughts, and found stock photos. [Here's the finished product.](https://carnegiemellon.shorthandstories.com/evictions-in-pittsburgh/index.html) I'm proud of how it came out. <br>
+
+In closing, I care about evictions and housing insecurity and this project was a great opportunity for me to practice working with some messy datasets, make some maps, and to be creative about how to communicate about something that I care about and find interesting. 
 
 [back to portfolio](https://julia-pascale.github.io/pascale-portfolio/)
