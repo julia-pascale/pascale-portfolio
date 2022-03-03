@@ -1,5 +1,7 @@
 ## final project - evictions in allegheny county - part 3
 
+## the final project is [here](https://carnegiemellon.shorthandstories.com/evictions-in-pittsburgh/index.html)! This is just a reflection on the process!
+
 ### summary
 
 [Part 1](https://julia-pascale.github.io/pascale-portfolio/finalproject_part1.html) - I identified my data sources and began to sketch out what the story could be. <br>  
@@ -28,8 +30,10 @@ Then I took stock of what I had and mapped out a story flow: <br>
 
 I also decided that I needed more for my call to action, so I looked up Philly's eviction diversion program outcomes and made a Sankey diagram. 
 
-### Map failures
-Failure is part of the process! I wanted to use maps to talk about the geographic inequity of eviction. I identified the zip codes that had the most evictions by looking at the Eviction Lab's website, and then I decide to see how many children are in those zip codes, and how many people of color. The problem with this was that I only had children and race data by census tract, so I had to do a spatial join to get it for zip code boundaries, and I just couldn't get this join to work for the longest time! Here are just some of my failed maps: 
+### Map Failures
+Failure is part of the process! I wanted to use maps to talk about the geographic inequity of eviction. I identified the zip codes that had the most evictions by looking at the Eviction Lab's website, and then I decide to see how many children are in those zip codes, and how many people of color. The problem with this was that I only had children and race data by census tract, so I had to do a spatial join to get it for zip code boundaries, and I just couldn't get this join to work for the longest time! <br>
+
+I also wanted to compare evictions to the history of redlining, but the correlation is  not that visually striking. Here are just a few of my failed maps: 
 
 ![map 1](/HOLC_map.jpg)
 ![map 2](/censustracts_withchildren.jpg)
@@ -38,9 +42,9 @@ Failure is part of the process! I wanted to use maps to talk about the geographi
 
 Once I figured out what was up with all of my joins (I realized I was joining 2020 census data to 2016 tracts, so there were lots of holes), my users did not respond to most of the maps anyway, so I only ended up using 2 of them! They're in the shorthand site. <br> 
 
-### Finishing and polishing
+### Polishing and Reflecting
 Now it was time to write the copy for the story, put it in shorthand, and tinker with it. Then I sent it to my original group of test subjects for their final thoughts, and found stock photos. [Here's the finished product.](https://carnegiemellon.shorthandstories.com/evictions-in-pittsburgh/index.html) I'm proud of how it came out. <br>
 
-In closing, I care about evictions and housing insecurity and this project was a great opportunity for me to practice working with some messy datasets, make some maps, and to be creative about how to communicate about something that I care about and find interesting. 
+In closing, I care about evictions and housing insecurity, and this project was a great opportunity for me to practice working with some messy datasets, make some maps, and to be creative! I feel that I learned how to communicate about something that I care about / find interesting that others may not know they *should* care about. 
 
 [back to portfolio](https://julia-pascale.github.io/pascale-portfolio/)
