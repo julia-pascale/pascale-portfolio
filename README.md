@@ -31,7 +31,7 @@ Selecting a topic and finding data.
 Showing draft visualizations to some patient users for feedback.
 
 ##### [part 3](https://julia-pascale.github.io/pascale-portfolio/finalproject_part3.html)
-Putting it all together and making it into a [story](https://carnegiemellon.shorthandstories.com/evictions-in-pittsburgh/index.html)
+Putting it all together and making it into a [story](https://carnegiemellon.shorthandstories.com/evictions-in-pittsburgh/index.html).
 
 
 
