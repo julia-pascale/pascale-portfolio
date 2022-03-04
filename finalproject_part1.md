@@ -1,5 +1,6 @@
 ## final project - evictions in Allegheny County - part one
-
+### [part 2 here](https://julia-pascale.github.io/pascale-portfolio/finalproject_part2.html)
+### [part 3 here](https://julia-pascale.github.io/pascale-portfolio/finalproject_part3.html)
 ### intro
 
 The lack of housing affordability and access to safe, quality housing in America are problems of an astounding scale, and their negative impacts bleed into so many areas of life - healthcare, food access, schools, infrastructure, work - there's a reason that "Housing First" has become a refrain in social services. More information about Housing First can be found [here](https://endhomelessness.org/resource/housing-first/) with the National Alliance to End Homelessness. Ensuring that people have access to safe and stable housing should be the first step, and it has powerful downstream effects for our other services. For example, giving people housing can save tens of thousands of dollars in emergency room costs per year. (Sturtevant & Viveiros, 2016) <br>
